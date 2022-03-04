@@ -1,1 +1,87 @@
-/* Copy and paste your CSS from CodePen into here */
+html {
+  box-sizing: border-box;
+  background: #D36135;
+}
+#main {
+  padding: 0;
+  margin: 0;
+  font-family: 'Trade Winds', cursive;
+}
+
+img {
+  display: block;
+  height: auto;
+  width: 100%;
+  margin: 0 auto;
+}
+
+/* site header */
+#title,
+header > h2 {
+  color: #282B28;
+  text-align: center;
+}
+#title {
+  margin-bottom: 0;
+  text-shadow: 1px 2px 2px #83BCA9;
+}
+header > h2 {
+  margin-top: 0;
+}
+
+/* hero image */
+#img-div {
+  margin: 0;
+  padding: 32px 8px 16px;
+  background: #83BCA9;
+}
+#image {
+  max-width: 800px;
+  box-shadow: 0 2px 16px rgba(40, 43, 40, 0.4);
+}
+#img-caption {
+  text-align: center;
+}
+
+/* tribute content */
+#tribute-info {
+  width: 92%;
+  max-width: 800px;
+  margin: 64px auto 0;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 1.1em;
+  letter-spacing: 2px;
+}
+/* tribute hyperlinks */
+#tribute-info a {
+  display: inline-block;
+  font-weight: bold;
+  background: #83BCA9;
+  color: #282B28;
+  transition: transform 200ms;
+}
+#tribute-info a:hover {
+  transform: scale(1.1);
+}
+/* wraps the group picture of the riders */
+#img-road-fools-wrapper {
+  margin: 32px auto 64px;
+}
+#img-road-fools-1 {
+  max-width: 453px;
+  padding: 8px;
+  background: #fff;
+  box-shadow: 4px 4px 16px rgba(40, 43, 40, 0.4);
+  transform: rotate(2deg);
+}
+#img-road-fools-1 figcaption {
+  padding: 8px;
+  text-align: center;
+}
+
+/* footer */
+footer {
+  margin-top: 64px;
+  text-align: center;
+  background: #83BCA9;
+}
