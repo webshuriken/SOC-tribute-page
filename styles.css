@@ -51,7 +51,7 @@ header > h2 {
 #tribute-info {
   width: 92%;
   max-width: 800px;
-  margin: 64px auto 0;
+  margin: 38px auto 0;
   font-family: 'DM Sans', sans-serif;
   font-size: 1.1em;
   letter-spacing: 2px;
@@ -70,11 +70,12 @@ header > h2 {
 /* wraps the group picture of the riders */
 #img-road-fools-wrapper {
   position: relative;
-  margin: 64px auto;
+  margin: 48px auto;
 }
 #img-road-fools-1 {
   max-width: 453px;
   padding: 8px;
+  font-family: 'Trade Winds', cursive;
   background: #fff;
   box-shadow: 4px 4px 16px rgba(40, 43, 40, 0.4);
   transform: rotate(2deg);
@@ -84,13 +85,13 @@ header > h2 {
   content: '';
   position: absolute;
   background: rgba(255, 255, 255, .4);
-  height: 12px;
-  width: 48px;
+  height: 16px;
+  width: 54px;
   z-index: 20;
 }
 #img-road-fools-1:before {
   top: 0;
-  left: -12px;
+  left: -17px;
   transform: rotate(140deg);
 }
 #img-road-fools-1:after {
@@ -104,8 +105,12 @@ header > h2 {
 }
 
 /* footer */
-footer {
+#footer {
+  padding: 16px;
   margin-top: 64px;
   text-align: center;
   background: #83BCA9;
+}
+#footer p {
+  margin: 0;
 }
