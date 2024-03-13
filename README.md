@@ -12,6 +12,8 @@ The creation of this project was part of the application process to join the Sch
 
 ## Screenshots
 
+[Visit live site](https://webshuriken.github.io/SOC-tribute-page/)
+
 ![screenhot](screenshot.png)
 
 ## Color Reference
