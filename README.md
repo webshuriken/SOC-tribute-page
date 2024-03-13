@@ -2,37 +2,17 @@
 
 A one page tribute page to Props Road Fools BMXing documentary.
 
-
 ## Features
 
 - Fully responsive
 
-
 ## Purpose
 
-The creation of this project was part of the application process to join the School of Code bootcamp.
-
-**Learning Journey step 7**
-
-You will now be using git and vscode to:
-
-  * _clone_ your repository to your local machine (use the HTTPS link)
-
-  * _update_ the sample HTML and CSS files with your own code (from CodePen) 
-
-  * _add, commit and push_ your changes to your brand new repository. Pretty cool eh?
-
-**Deploy the site using GitHub pages**
-
-Follow the guide [HERE](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
-
-Make sure that the deployed branch is `main` in settings.
-
+The creation of this project was part of the application process to join the School of Code bootcamp. To which I was ACCEPTED! very exiting to have a platform to help me keep moving towards my goal of joining the large world of web development.
 
 ## Screenshots
 
 ![screenhot](screenshot.png)
-
 
 ## Color Reference
 
@@ -42,11 +22,9 @@ Make sure that the deployed branch is `main` in settings.
 | Olive kinda| ![#83BCA9](https://via.placeholder.com/10/83BCA9?text=+) #83BCA9 |
 | Orange | ![#D36135](https://via.placeholder.com/10/D36135?text=+) #D36135 |
 
-
 ## Tech Stack
 
 **Client:** HTML5 and CSS3
-
 
 ## Acknowledgements
 
@@ -54,16 +32,13 @@ Make sure that the deployed branch is `main` in settings.
  - [School of Code](https://www.schoolofcode.co.uk/) for providing this little fun task.
  - [Google Fonts](https://fonts.google.com/)
 
-
 ## Authors
 
 - [Carlos E Alford](https://carlosealford.com/)
 
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
 
 ---
 ![Logo](/assets/ceam-logo-3d.png)
