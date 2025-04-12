@@ -36,9 +36,14 @@
       </section>
       <footer id="footer">
         <p>Created with love by Carlos E Alford</p>
-        <p>2022-2023</p>
+        <p>2022-<span id="wsFooterYear"></span></p>
       </footer>
     </main>
+    <script>
+      // dynamic footer date
+      const date = new Date();
+      document.querySelector('#wsFooterYear').innerText = date.getFullYear();
+    </script>
   </body>
   <!--
          _____________             ____________________________________________________
@@ -51,7 +56,7 @@
 /       / ------       \ \/  \/ / _ \ '_ \   \___ \| '_ \| | | | '__| | |/ / _ \ '_ \ 
 \       \ ------        \  /\  /  __/ |_) |  ____) | | | | |_| | |  | |   <  __/ | | |
  \       \\      \       \/  \/ \___|_.__/  |_____/|_| |_|\__,_|_|  |_|_|\_\___|_| |_|
-  \       \\______\                2023
+  \       \\______\                
    \      //       \                    
     \    //         \                  
      \  //           \             https://carlosealford.com/                         /|
