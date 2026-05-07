@@ -1,32 +1,23 @@
-# Soc Tribute Page
+# Soc Tribute Page :bike:
 
 A one page tribute page to Props Road Fools BMXing documentary.
+
+:bike: [Live Site](https://webshuriken.github.io/SOC-tribute-page/)
 
 ## Features
 
 - Fully responsive
 
-## Purpose
+## About
 
-The creation of this project was part of the application process to join the School of Code bootcamp. To which I was ACCEPTED! very exiting to have a platform to help me keep moving towards my goal of joining the large world of web development.
-
-## Screenshots
-
-[Visit live site](https://webshuriken.github.io/SOC-tribute-page/)
+The creation of this project was part of the application process to join the School of Code bootcamp. To which I was ACCEPTED! :fire: very exiting to have a platform to help me keep moving towards my goal of joining the large world of web development.
 
 ![screenhot](screenshot.png)
 
-## Color Reference
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Dark grey | ![#282B28](https://via.placeholder.com/10/282B28?text=+) #282B28 |
-| Olive kinda| ![#83BCA9](https://via.placeholder.com/10/83BCA9?text=+) #83BCA9 |
-| Orange | ![#D36135](https://via.placeholder.com/10/D36135?text=+) #D36135 |
-
 ## Tech Stack
 
-**Client:** HTML5 and CSS3
+- HTML5
+- CSS3
 
 ## Acknowledgements
 
@@ -40,7 +31,4 @@ The creation of this project was part of the application process to join the Sch
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
-
----
-![Logo](/assets/ceam-logo-3d.png)
+[MIT](LICENSE)
